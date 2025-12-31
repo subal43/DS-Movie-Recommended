@@ -25,3 +25,4 @@ if st.button("Recommend"):
     st.subheader("Movies you may like:")
     for i in x:
         st.write(i)
+        movie_id = i[0]
