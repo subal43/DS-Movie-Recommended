@@ -33,3 +33,11 @@ A content-based movie recommendation system built with Python and Streamlit. Thi
     git clone https://github.com/subal43/DS-Movie-Recommended.git
     cd DS-Movie-Recommended
     ```
+
+2.  **Install Dependencies**
+
+    Ensure you have Python installed. Install the required libraries:
+
+    ```bash
+    pip install streamlit pandas requests scikit-learn
+    ```
