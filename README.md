@@ -52,4 +52,12 @@ A content-based movie recommendation system built with Python and Streamlit. Thi
 
     The app will open in your browser automatically. If not, navigate to `http://localhost:8501`.
 
+## How It Works
+
+1.  The system loads the pre-computed `movie_dict` and `similarity` matrix.
+2.  When a user selects a movie, the app finds its index in the dataset.
+3.  It looks up the similarity scores for that movie and identifies the top 5 most similar movies.
+4.  The app uses the TMDB API to fetch posters for these recommendations.
+5.  Results are displayed in a responsive grid layout.
+
 
