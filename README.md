@@ -24,3 +24,5 @@ A content-based movie recommendation system built with Python and Streamlit. Thi
 - `data/`: Directory containing the dataset (e.g., `tmdb_5000_movies.csv`).
 - `movie.pkl`: Pickled Pandas DataFrame containing movie data (titles, IDs).
 - `similarity.pkl`: Pickled cosine similarity matrix.
+
+## Installation and Usage
