@@ -48,4 +48,8 @@ A content-based movie recommendation system built with Python and Streamlit. Thi
     ```bash
     streamlit run app.py
     ```
+4.  **View the App**
+
+    The app will open in your browser automatically. If not, navigate to `http://localhost:8501`.
+
 
