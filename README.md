@@ -41,3 +41,11 @@ A content-based movie recommendation system built with Python and Streamlit. Thi
     ```bash
     pip install streamlit pandas requests scikit-learn
     ```
+
+
+3.  **Run the Application**
+
+    ```bash
+    streamlit run app.py
+    ```
+
