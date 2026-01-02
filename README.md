@@ -26,3 +26,10 @@ A content-based movie recommendation system built with Python and Streamlit. Thi
 - `similarity.pkl`: Pickled cosine similarity matrix.
 
 ## Installation and Usage
+
+1.  **Clone the Repository**
+
+    ```bash
+    git clone https://github.com/subal43/DS-Movie-Recommended.git
+    cd DS-Movie-Recommended
+    ```
