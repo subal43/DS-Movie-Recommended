@@ -61,3 +61,7 @@ A content-based movie recommendation system built with Python and Streamlit. Thi
 5.  Results are displayed in a responsive grid layout.
 
 
+## Data Source
+
+The dataset used for this project is likely the TMDB 5000 Movie Dataset, which includes metadata on thousands of movies.
+
