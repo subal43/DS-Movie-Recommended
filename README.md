@@ -65,3 +65,6 @@ A content-based movie recommendation system built with Python and Streamlit. Thi
 
 The dataset used for this project is likely the TMDB 5000 Movie Dataset, which includes metadata on thousands of movies.
 
+## License
+
+This project is licensed under the MIT License.
